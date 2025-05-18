@@ -1,0 +1,9 @@
+streamlit
+whisper
+transformers
+spacy
+torch
+torchaudio
+opencv-python
+deepface
+                                                                                                              
